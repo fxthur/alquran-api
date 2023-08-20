@@ -17,7 +17,7 @@ Al-quran api adalah sebuah api yang berisi data-data ayat-ayat al-quran yang dia
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/fxthur/notes-app-be
+   git clone https://github.com/fxthur/alquran-api.git
    ```
 2. Install NPM packages
    ```sh
